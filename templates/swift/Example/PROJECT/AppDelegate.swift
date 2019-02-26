@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  PROJECT
+//  corcimaria
 //
-//  Created by PROJECT_OWNER on TODAYS_DATE.
-//  Copyright (c) TODAYS_YEAR PROJECT_OWNER. All rights reserved.
+//  Created by corcimaria@gmail.com on 02/26/2019.
+//  Copyright (c) 2019 corcimaria@gmail.com. All rights reserved.
 //
 
 import UIKit
