@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
           #3.  
           s.summary         = "corcimaria utils"
           #4.
-          s.homepage        = ""
+          s.homepage        = "www.corcimaria.com"
           #5.
           s.license         = "MIT"
           #6.
